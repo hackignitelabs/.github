@@ -1,4 +1,4 @@
-<img width="1126" height="411" alt="Gemini_Generated_Image_nn5xk4nn5xk4nn5x" src="https://github.com/user-attachments/assets/b2ab6e79-275f-4ed5-a899-6c9c7c12736f" />
+<img width="300" height="109" alt="Gemini_Generated_Image_nn5xk4nn5xk4nn5x" src="https://github.com/user-attachments/assets/b2ab6e79-275f-4ed5-a899-6c9c7c12736f" />
 
 # Hackignite Labs
 
